@@ -1,0 +1,6 @@
+
+airflow-docker/.airflowignore
+airflow-docker/logs
+airflow-docker/.env
+*.ipynb
+airflow-docker/postgres_data/

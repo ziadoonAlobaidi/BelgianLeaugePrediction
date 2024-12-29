@@ -1,0 +1,67 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data
+    networks:
+      - airflow_network
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    restart: always  # Ensure that the database restarts on failure
+
+  airflow-webserver:
+    image: apache/airflow:2.6.0
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+      AIRFLOW__WEBSERVER__SECRET_KEY: ${AIRFLOW_SECRET_KEY}  # Ensure this is defined in your environment or .env
+      AIRFLOW__WEBSERVER__RBAC: "True"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./data:/opt/airflow/data  # Simplified volume mounting
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    depends_on:
+      postgres:
+        condition: service_healthy  # Wait for Postgres to be healthy
+    ports:
+      - "8080:8080"
+    networks:
+      - airflow_network
+    restart: always  # Ensure that the webserver restarts on failure
+    command: webserver
+
+  airflow-scheduler:
+    image: apache/airflow:2.6.0
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+      - ./data:/opt/airflow/data  
+    depends_on:
+      postgres:
+        condition: service_healthy  # Wait for Postgres to be healthy
+    networks:
+      - airflow_network
+    restart: always  # Ensure that the scheduler restarts on failure
+    command: scheduler
+
+networks:
+  airflow_network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+    driver: local

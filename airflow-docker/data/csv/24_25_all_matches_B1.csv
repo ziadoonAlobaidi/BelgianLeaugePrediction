@@ -1,0 +1,241 @@
+week,date,time,home_team,away_team,home_team_score,away_team_score,home_team_logo,away_team_logo
+Week 1,26/07,20:45,FC Bruges,KV Malines,1,1,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 1,27/07,16:00,FCV Dender EH,Union SG,0,0,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 1,27/07,18:15,Beerschot,OH Louvain,0,0,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 1,27/07,20:45,Anderlecht,STVV,1,0,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 1,28/07,13:30,KRC Genk,Standard,0,0,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 1,28/07,16:00,KV Courtrai,La Gantoise,0,1,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 1,28/07,18:30,Charleroi,Antwerp,0,1,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 1,28/07,19:15,Westerlo,Cercle de Bruges,3,0,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 2,02/08,20:45,Union SG,Beerschot,3,1,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 2,03/08,16:00,KV Malines,Westerlo,2,4,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 2,03/08,18:15,OH Louvain,KRC Genk,3,1,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 2,03/08,20:45,STVV,Charleroi,1,4,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 2,04/08,13:30,Antwerp,Anderlecht,1,2,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 2,04/08,16:00,Cercle de Bruges,KV Courtrai,1,2,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 2,04/08,18:30,Standard,FC Bruges,1,0,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 2,04/08,19:15,La Gantoise,FCV Dender EH,1,2,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 3,09/08,20:45,Standard,KV Malines,0,0,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 3,10/08,16:00,FCV Dender EH,KV Courtrai,4,1,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 3,10/08,18:15,Westerlo,Union SG,4,3,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 3,10/08,20:45,Anderlecht,OH Louvain,1,1,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 3,11/08,13:30,KRC Genk,FC Bruges,3,2,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 3,11/08,16:00,Antwerp,STVV,6,1,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 3,11/08,18:30,Charleroi,La Gantoise,1,0,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 3,11/08,19:15,Cercle de Bruges,Beerschot,4,1,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 4,16/08,20:45,Union SG,Charleroi,1,0,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 4,17/08,16:00,Beerschot,KRC Genk,3,4,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 4,17/08,18:15,STVV,FCV Dender EH,3,3,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 4,17/08,20:45,KV Malines,Anderlecht,1,3,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 4,18/08,13:30,FC Bruges,Antwerp,1,0,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 4,18/08,16:00,OH Louvain,Cercle de Bruges,1,1,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 4,18/08,18:30,KV Courtrai,Standard,1,0,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 4,18/08,19:15,La Gantoise,Westerlo,4,1,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 5,24/08,16:00,Cercle de Bruges,La Gantoise,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 5,24/08,18:15,Anderlecht,KRC Genk,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 5,24/08,18:15,Westerlo,OH Louvain,1,1,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 5,24/08,20:45,Antwerp,KV Malines,0,1,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 5,25/08,13:30,FCV Dender EH,FC Bruges,1,2,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 5,25/08,16:00,STVV,Union SG,0,0,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 5,25/08,18:30,Standard,Beerschot,1,0,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 5,25/08,19:15,Charleroi,KV Courtrai,1,0,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 6,30/08,20:45,KRC Genk,Westerlo,1,0,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 6,31/08,16:00,KV Malines,Charleroi,5,2,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 6,31/08,18:15,Beerschot,FCV Dender EH,1,2,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 6,31/08,20:45,OH Louvain,Standard,2,0,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 6,01/09,13:30,FC Bruges,Cercle de Bruges,3,0,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 6,01/09,16:00,La Gantoise,Antwerp,1,1,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 6,01/09,18:30,Union SG,Anderlecht,0,0,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 6,01/09,19:15,KV Courtrai,STVV,1,1,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 7,13/09,20:45,FCV Dender EH,Standard,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 7,14/09,16:00,Cercle de Bruges,KRC Genk,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 7,14/09,18:15,KV Courtrai,FC Bruges,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 7,14/09,20:45,Anderlecht,Westerlo,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 7,15/09,13:30,Antwerp,Union SG,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 7,15/09,16:00,STVV,OH Louvain,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 7,15/09,18:30,Charleroi,Beerschot,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 7,15/09,19:15,La Gantoise,KV Malines,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 8,20/09,20:45,Standard,Union SG,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 8,21/09,16:00,Beerschot,STVV,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 8,21/09,18:15,Westerlo,Antwerp,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 8,21/09,20:45,Anderlecht,Charleroi,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 8,22/09,13:30,FC Bruges,La Gantoise,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 8,22/09,16:00,KV Malines,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 8,22/09,18:30,KRC Genk,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 8,22/09,19:15,OH Louvain,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 9,27/09,20:45,Charleroi,FC Bruges,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 9,28/09,16:00,KRC Genk,KV Malines,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 9,28/09,18:15,Standard,Westerlo,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 9,28/09,20:45,FCV Dender EH,Anderlecht,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 9,29/09,13:30,Antwerp,Beerschot,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 9,29/09,16:00,Union SG,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 9,29/09,18:30,La Gantoise,OH Louvain,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 9,29/09,19:15,Cercle de Bruges,STVV,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 10,04/10,20:45,Westerlo,Beerschot,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 10,05/10,16:00,KV Malines,OH Louvain,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 10,05/10,18:15,KV Courtrai,KRC Genk,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 10,05/10,20:45,FCV Dender EH,Charleroi,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 10,06/10,13:30,Anderlecht,Standard,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 10,06/10,16:00,Antwerp,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 10,06/10,18:30,FC Bruges,Union SG,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 10,06/10,19:15,STVV,La Gantoise,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 11,18/10,20:45,Beerschot,Anderlecht,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 11,19/10,16:00,Westerlo,FC Bruges,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 11,19/10,18:15,Cercle de Bruges,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 11,19/10,20:45,Union SG,La Gantoise,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 11,20/10,13:30,KRC Genk,STVV,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 11,20/10,16:00,OH Louvain,Antwerp,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 11,20/10,18:30,Standard,Charleroi,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 11,20/10,19:15,KV Malines,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 12,25/10,20:45,KV Courtrai,Beerschot,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 12,26/10,16:00,Charleroi,OH Louvain,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 12,26/10,18:15,FCV Dender EH,KV Malines,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 12,26/10,20:45,STVV,Westerlo,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 12,27/10,13:30,FC Bruges,Anderlecht,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 12,27/10,16:00,Antwerp,Standard,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 12,27/10,18:30,La Gantoise,KRC Genk,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 12,27/10,19:15,Union SG,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 13,01/11,20:45,Westerlo,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 13,02/11,16:00,Standard,STVV,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 13,02/11,18:15,OH Louvain,FC Bruges,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 13,02/11,20:45,KV Malines,Union SG,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 13,03/11,13:30,KRC Genk,Antwerp,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 13,03/11,16:00,Cercle de Bruges,Charleroi,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 13,03/11,18:30,Anderlecht,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 13,03/11,19:15,Beerschot,La Gantoise,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 14,08/11,20:45,STVV,KV Malines,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 14,09/11,16:00,KV Courtrai,Antwerp,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 14,09/11,18:15,FCV Dender EH,OH Louvain,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 14,09/11,20:45,Charleroi,Westerlo,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 14,10/11,13:30,Cercle de Bruges,Anderlecht,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 14,10/11,16:00,La Gantoise,Standard,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 14,10/11,18:30,Union SG,KRC Genk,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 14,10/11,19:15,Beerschot,FC Bruges,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 15,22/11,20:45,Antwerp,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 15,23/11,16:00,FC Bruges,STVV,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 15,23/11,18:15,Standard,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 15,23/11,20:45,KRC Genk,Charleroi,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 15,24/11,13:30,KV Malines,Beerschot,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 15,24/11,16:00,OH Louvain,Union SG,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 15,24/11,18:30,Anderlecht,La Gantoise,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 15,24/11,19:15,Westerlo,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 16,29/11,20:45,KV Courtrai,KV Malines,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 16,30/11,18:15,FC Bruges,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 16,30/11,20:45,Charleroi,Standard,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 16,01/12,13:30,STVV,KRC Genk,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 16,01/12,16:00,Beerschot,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 16,01/12,16:00,OH Louvain,Anderlecht,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 16,01/12,18:30,Union SG,Antwerp,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 16,01/12,19:15,Westerlo,La Gantoise,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 17,07/12,16:00,KRC Genk,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 17,07/12,18:15,KV Malines,FC Bruges,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 17,07/12,18:15,Standard,OH Louvain,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 17,07/12,20:45,La Gantoise,STVV,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 17,08/12,13:30,Antwerp,Charleroi,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 17,08/12,16:00,Cercle de Bruges,Union SG,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 17,08/12,18:30,Anderlecht,Beerschot,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 17,08/12,19:15,FCV Dender EH,Westerlo,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 18,13/12,20:45,KV Malines,Antwerp,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 18,14/12,16:00,Beerschot,Standard,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 18,14/12,18:15,OH Louvain,Charleroi,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 18,14/12,20:45,KV Courtrai,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 18,15/12,13:30,FC Bruges,KRC Genk,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 18,15/12,16:00,Union SG,Westerlo,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 18,15/12,18:30,STVV,Anderlecht,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 18,15/12,19:15,La Gantoise,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 19,20/12,20:45,Westerlo,KV Malines,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 19,21/12,16:00,Charleroi,STVV,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 19,21/12,18:15,FCV Dender EH,Antwerp,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 19,21/12,20:45,Beerschot,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 19,22/12,16:00,Standard,La Gantoise,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 19,22/12,16:00,KRC Genk,Anderlecht,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 19,22/12,18:30,Union SG,FC Bruges,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 19,22/12,19:15,Cercle de Bruges,OH Louvain,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 20,26/12,13:30,Antwerp,KRC Genk,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 20,26/12,16:00,FC Bruges,Westerlo,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 20,26/12,16:00,KV Courtrai,Charleroi,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 20,26/12,18:30,KV Malines,Standard,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 20,26/12,20:45,La Gantoise,Union SG,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 20,27/12,18:30,OH Louvain,Beerschot,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 20,27/12,20:45,STVV,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 20,27/12,20:45,Anderlecht,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 21,11/01,18:00,Beerschot,Antwerp,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 21,11/01,18:00,KRC Genk,OH Louvain,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 21,11/01,18:00,Standard,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 21,11/01,18:00,Westerlo,STVV,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 21,11/01,18:00,Charleroi,Union SG,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 21,11/01,18:00,Cercle de Bruges,KV Malines,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 21,11/01,18:00,Anderlecht,FC Bruges,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 21,11/01,18:00,FCV Dender EH,La Gantoise,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 22,18/01,18:00,La Gantoise,Charleroi,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 22,18/01,18:00,KV Malines,KRC Genk,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 22,18/01,18:00,KV Courtrai,Anderlecht,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 22,18/01,18:00,Antwerp,Westerlo,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 22,18/01,18:00,FC Bruges,Beerschot,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 22,18/01,18:00,FCV Dender EH,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 22,18/01,18:00,STVV,Standard,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 22,18/01,18:00,Union SG,OH Louvain,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 23,25/01,18:00,Beerschot,Union SG,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 23,25/01,18:00,Westerlo,KRC Genk,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 23,25/01,18:00,Charleroi,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 23,25/01,18:00,OH Louvain,La Gantoise,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 23,25/01,18:00,FC Bruges,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 23,25/01,18:00,Standard,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 23,25/01,18:00,STVV,Antwerp,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 23,25/01,18:00,Anderlecht,KV Malines,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 24,01/02,18:00,La Gantoise,Anderlecht,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 24,01/02,18:00,KRC Genk,Beerschot,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 24,01/02,18:00,Union SG,STVV,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 24,01/02,18:00,KV Courtrai,Westerlo,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 24,01/02,18:00,Antwerp,FC Bruges,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 24,01/02,18:00,Cercle de Bruges,Standard,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 24,01/02,18:00,Charleroi,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 24,01/02,18:00,OH Louvain,KV Malines,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 25,08/02,18:00,Westerlo,Standard,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 25,08/02,18:00,Anderlecht,Antwerp,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 25,08/02,18:00,FCV Dender EH,STVV,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 25,08/02,18:00,FC Bruges,OH Louvain,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 25,08/02,18:00,Beerschot,Charleroi,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 25,08/02,18:00,KRC Genk,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 25,08/02,18:00,KV Courtrai,Union SG,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 25,08/02,18:00,KV Malines,La Gantoise,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 26,15/02,18:00,Antwerp,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 26,15/02,18:00,La Gantoise,Beerschot,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 26,15/02,18:00,OH Louvain,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 26,15/02,18:00,STVV,FC Bruges,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 26,15/02,18:00,Standard,KRC Genk,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 26,15/02,18:00,Cercle de Bruges,Westerlo,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 26,15/02,18:00,Union SG,KV Malines,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 26,15/02,18:00,Charleroi,Anderlecht,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 27,22/02,18:00,FCV Dender EH,Beerschot,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 27,22/02,18:00,Westerlo,Charleroi,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 27,22/02,18:00,KV Courtrai,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 27,22/02,18:00,Anderlecht,Union SG,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 27,22/02,18:00,Antwerp,OH Louvain,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 27,22/02,18:00,KRC Genk,La Gantoise,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 27,22/02,18:00,FC Bruges,Standard,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 27,22/02,18:00,KV Malines,STVV,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 28,01/03,18:00,Union SG,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/dender.png
+Week 28,01/03,18:00,Standard,Anderlecht,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 28,01/03,18:00,Beerschot,KV Malines,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 28,01/03,18:00,Charleroi,KRC Genk,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 28,01/03,18:00,Cercle de Bruges,Antwerp,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 28,01/03,18:00,La Gantoise,FC Bruges,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 28,01/03,18:00,OH Louvain,Westerlo,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 28,01/03,18:00,STVV,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 29,08/03,18:00,FCV Dender EH,KRC Genk,,,https://static.sportid.be/images/soccer/teams/dender.png,https://static.sportid.be/images/soccer/teams/racinggenk.png
+Week 29,08/03,18:00,KV Courtrai,OH Louvain,,,https://static.sportid.be/images/soccer/teams/kortrijk.png,https://static.sportid.be/images/soccer/teams/ohl.png
+Week 29,08/03,18:00,STVV,Beerschot,,,https://static.sportid.be/images/soccer/teams/sinttruiden.png,https://static.sportid.be/images/soccer/teams/beerschot.png
+Week 29,08/03,18:00,Union SG,Standard,,,https://static.sportid.be/images/soccer/teams/union_sg.png,https://static.sportid.be/images/soccer/teams/standard.png
+Week 29,08/03,18:00,Westerlo,Anderlecht,,,https://static.sportid.be/images/soccer/teams/westerlo.png,https://static.sportid.be/images/soccer/teams/anderlecht.png
+Week 29,08/03,18:00,Cercle de Bruges,FC Bruges,,,https://static.sportid.be/images/soccer/teams/cercle_brugge.png,https://static.sportid.be/images/soccer/teams/clubbrugge.png
+Week 29,08/03,18:00,Antwerp,La Gantoise,,,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png,https://static.sportid.be/images/soccer/teams/aagent.png
+Week 29,08/03,18:00,Charleroi,KV Malines,,,https://static.sportid.be/images/soccer/teams/charleroi.png,https://static.sportid.be/images/soccer/teams/kvmechelen.png
+Week 30,15/03,18:00,Standard,Antwerp,,,https://static.sportid.be/images/soccer/teams/standard.png,https://static.sportid.be/images/soccer/teams/rafc_logo_01.png
+Week 30,15/03,18:00,OH Louvain,STVV,,,https://static.sportid.be/images/soccer/teams/ohl.png,https://static.sportid.be/images/soccer/teams/sinttruiden.png
+Week 30,15/03,18:00,FC Bruges,Charleroi,,,https://static.sportid.be/images/soccer/teams/clubbrugge.png,https://static.sportid.be/images/soccer/teams/charleroi.png
+Week 30,15/03,18:00,Beerschot,Westerlo,,,https://static.sportid.be/images/soccer/teams/beerschot.png,https://static.sportid.be/images/soccer/teams/westerlo.png
+Week 30,15/03,18:00,Anderlecht,Cercle de Bruges,,,https://static.sportid.be/images/soccer/teams/anderlecht.png,https://static.sportid.be/images/soccer/teams/cercle_brugge.png
+Week 30,15/03,18:00,KRC Genk,Union SG,,,https://static.sportid.be/images/soccer/teams/racinggenk.png,https://static.sportid.be/images/soccer/teams/union_sg.png
+Week 30,15/03,18:00,La Gantoise,KV Courtrai,,,https://static.sportid.be/images/soccer/teams/aagent.png,https://static.sportid.be/images/soccer/teams/kortrijk.png
+Week 30,15/03,18:00,KV Malines,FCV Dender EH,,,https://static.sportid.be/images/soccer/teams/kvmechelen.png,https://static.sportid.be/images/soccer/teams/dender.png
