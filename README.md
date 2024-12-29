@@ -4,4 +4,4 @@ As part of a **BeCode class challenge**, our team developed a machine learning p
 
 **Team Roles:**  
 - **Data Analysts:** Rachel, Ziadoon  
-- **Data Engineers:** Laura, Alisher 
+- **Data Engineers:** ![Laura](https://github.com/KriszgruberL), Alisher 
